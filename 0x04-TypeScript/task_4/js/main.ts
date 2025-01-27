@@ -1,4 +1,4 @@
-// Importing Subjects namespace and required classes
+// Importing the necessary classes from the 'subjects' directory
 import { Cpp } from './subjects/Cpp';
 import { Java } from './subjects/Java';
 import { React } from './subjects/React';
